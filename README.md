@@ -1,6 +1,6 @@
 # EMResformer
 This repo contains the code for our paper "Iterative Optimal Attention and Local Model for Single Image Deraining Line''
-![](https://github.com/shiyi0306/DGPANet/blob/main/DGPANet_framework.png?raw=true) 
+![](https://github.com/ghfkahfk/EMResformer_framenetwork.png?raw=true) 
 
 ### Dependencies
 Please install following essential dependencies (see requirements.txt):

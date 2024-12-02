@@ -36,7 +36,7 @@ lpips
 Download:  
 Download:  
 1. **Rain200H**  (https://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)  
-2. **Cardiac MRI** [Multi-sequence Cardiac MRI Segmentation dataset (bSSFP fold)](https://zmiclab.github.io/zxh/0/mscmrseg19)   
+2. **Rain200L** (https://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)  
 
 
 ### Training  

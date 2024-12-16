@@ -34,7 +34,6 @@ lpips
 
 ### Datasets
 Download:  
-Download:  
 1. **Rain200H**  (https://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)  
 2. **Rain200L** (https://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)
 3. **Rain1400** (https://xueyangfu.github.io/projects/cvpr2017.html)
